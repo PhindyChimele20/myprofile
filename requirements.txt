@@ -1,9 +1,2 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 29 14:19:33 2025
-
-@author: phind
-"""
-
 seaborn
 matplotlib
